@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "DEBBI",
+    "oncran": true
+  },
+  {
+    "package": "graDiEnt",
+    "oncran": true
+  }
+]
