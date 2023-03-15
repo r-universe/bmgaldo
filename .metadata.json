@@ -1,10 +1,10 @@
 [
   {
-    "package": "DEBBI",
+    "package": "graDiEnt",
     "oncran": true
   },
   {
-    "package": "graDiEnt",
+    "package": "DEBBI",
     "oncran": true
   }
 ]
